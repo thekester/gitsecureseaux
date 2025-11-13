@@ -22,6 +22,9 @@ Chaque mission suit le même fil conducteur :
 
 > Astuce : isolez vos dépendances par mission via `python3 -m venv .venv && source .venv/bin/activate`. Ajoutez toujours `.venv` dans le `.gitignore` pour éviter de contaminer l’historique.
 
+## Artefacts externes
+Les captures et supports des exercices CTF (PCAP, CSV dérivés, certificats, images) proviennent du matériel pédagogique de Yann Cam. Par respect des droits, **seuls les scripts et rapports maison sont publiés ici** ; tous les autres fichiers nécessaires à l’exécution doivent être récupérés depuis le coffre privé de l’école avant d’utiliser les commandes décrites.
+
 ## Structure type d’un rapport
 1. **Résumé exécutif** – deux à trois phrases sur le risque observé.
 2. **Portée & hypothèses** – périmètre testé, actifs concernés, limitations.

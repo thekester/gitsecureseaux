@@ -7,6 +7,7 @@ La capture `MyKeyMouse.pcap` contient des rapports USB HID bruts (clavier + sour
 - **Source** : PCAP fourni par l’équipe SOC, obtenu sur un poste Windows via un keylogger USB HID.
 - **Objectifs** : reconstruire les frappes clavier, rejouer la trajectoire souris et évaluer l’impact.
 - **Contraintes** : aucune métadonnée d’horodatage externe. Tous les temps proviennent de la capture.
+- **Artefacts externes** : `MyKeyMouse.pcap`, `usb_hid_events.csv`, `usbkeystrok.txt` et `usb_hid_path.png` proviennent du CTF de Yann Cam (Polytech). Ils ne sont pas publiés ; chacun doit les récupérer via le coffre interne avant d’exécuter les scripts.
 
 ## Méthodologie
 1. **Extraction des rapports HID**  
