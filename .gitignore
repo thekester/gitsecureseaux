@@ -1,2 +1,7 @@
 .venv
 *.pdf
+*.pcap
+*.pcapng
+*.crt
+*.key
+*.tgz
