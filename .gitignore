@@ -6,3 +6,5 @@
 *.key
 *.tgz
 02-MyKeyMouse/usb_hid_path.png
+02-MyKeyMouse/usb_hid_events.csv
+02-MyKeyMouse/usbkeystrok.txt
